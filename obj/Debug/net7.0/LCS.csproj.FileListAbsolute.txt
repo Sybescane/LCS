@@ -1,0 +1,15 @@
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\bin\Debug\net7.0\LCS.exe
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\bin\Debug\net7.0\LCS.deps.json
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\bin\Debug\net7.0\LCS.runtimeconfig.json
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\bin\Debug\net7.0\LCS.dll
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\bin\Debug\net7.0\LCS.pdb
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.AssemblyInfoInputs.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.AssemblyInfo.cs
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.dll
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\refint\LCS.dll
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.pdb
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\LCS.genruntimeconfig.cache
+C:\Users\Александр\OneDrive - НИТУ МИСиС\Рабочий стол\Учеба\МИСИС\Алгоритмы дискретной математики (4 сем)\LCS\obj\Debug\net7.0\ref\LCS.dll
